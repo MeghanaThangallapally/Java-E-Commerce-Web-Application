@@ -20,7 +20,7 @@
 
     <dependencies>
 
-        <!-- Java EE Servlet API (provided by Tomcat) -->
+        <!-- Java EE Servlet  API (provided by Tomcat) -->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
