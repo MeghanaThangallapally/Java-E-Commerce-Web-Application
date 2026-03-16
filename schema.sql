@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS order_items (
 --  Seed Data
 -- ============================================================
 
--- Default admin  (password: admin123)
+-- Default admin   (password: admin123)
 INSERT INTO users (name, email, password, role) VALUES
 ('Admin', 'admin@shopflow.com',
  'dGVzdHNhbHQxMjM0NTY3:oHgYxzV0LzF3J2XqP9RmKtN8wQcBvYsDpEuAiZ4lMnU=',
